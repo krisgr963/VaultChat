@@ -1,0 +1,6 @@
+{
+  "name": "AegisChat",
+  "description": "Ultra-sikker, personvernfokusert og kryptert chat med anonym modus, selvslettende meldinger og panikksletting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
